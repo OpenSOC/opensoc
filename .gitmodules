@@ -4,9 +4,3 @@
 [submodule "opensoc-ui"]
 	path = opensoc-ui
 	url = git@github.com:OpenSOC/opensoc-ui.git
-[submodule "opensoc-aggregation"]
-	path = opensoc-aggregation
-	url = git@github.com:OpenSOC/opensoc-aggregation.git
-[submodule "opensoc-platform"]
-	path = opensoc-platform
-	url = git@github.com:OpenSOC/opensoc-platform.git
