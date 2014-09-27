@@ -3,7 +3,7 @@
 OpenSOC integrates a variety of open source big data technologies in order
 to offer a centralized tool for security monitoring and analysis. OpenSOC
 provides capabilities for log aggregation, full packet capture indexing,
-stroage, advanced behavioral analytics and data enrichment, while applying
+storage, advanced behavioral analytics and data enrichment, while applying
 the most current threat intelligence information to security telemetry
 within a single platform.
 
@@ -46,4 +46,16 @@ full-packet capture, stream processing, batch processing, real-time search, and
 telemetry aggregation.  With OpenSOC, our goal is to tie big data into security
 analytics and drive towards an extensible centralized platform to effectively
 enable rapid detection and rapid response for advanced security threats.  
+
+# Obtaining OpenSOC
+
+This repository is a collection of submodules for convenience which is regularly
+updated to point to the latest versions. Github provides multiple ways to obtain
+OpenSOC's code:
+
+1. git clone --recursive https://github.com/OpenSOC/opensoc
+2. [Download ZIP](https://github.com/OpenSOC/opensoc/archive/master.zip)
+3. Clone or download each repository individually
+
+Option 3 is more likely to have the latest code.
 
