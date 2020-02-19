@@ -1,10 +1,3 @@
-# PROJECT MOVED
-
-This project is no longer actively maintained and has been migrated to
-Apache Metron for continued development.
-
-https://metron.apache.org/
-
 # OpenSOC
 
 OpenSOC integrates a variety of open source big data technologies in order
